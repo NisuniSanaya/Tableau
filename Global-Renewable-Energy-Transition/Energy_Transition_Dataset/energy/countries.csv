@@ -1,0 +1,21 @@
+country_id,country_name,region,income_level,population_millions
+C01,Germany,Europe,High income,83.8
+C02,Denmark,Europe,High income,5.9
+C03,Norway,Europe,High income,5.4
+C04,Spain,Europe,High income,47.4
+C05,United States,North America,High income,334.9
+C06,Canada,North America,High income,38.9
+C07,Brazil,South America,Upper middle income,215.3
+C08,Chile,South America,High income,19.5
+C09,China,East Asia,Upper middle income,1412.0
+C10,Japan,East Asia,High income,124.9
+C11,South Korea,East Asia,High income,51.7
+C12,India,South Asia,Lower middle income,1417.0
+C13,Vietnam,Southeast Asia,Lower middle income,98.9
+C14,Indonesia,Southeast Asia,Upper middle income,275.5
+C15,Australia,Oceania,High income,26.0
+C16,New Zealand,Oceania,High income,5.2
+C17,Kenya,Africa,Lower middle income,54.0
+C18,Morocco,Africa,Lower middle income,37.8
+C19,South Africa,Africa,Upper middle income,60.4
+C20,Egypt,Africa,Lower middle income,109.3
