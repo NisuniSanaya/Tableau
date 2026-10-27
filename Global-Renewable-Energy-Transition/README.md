@@ -48,3 +48,9 @@ The interactive dashboard presents multiple views of the global renewable energy
 **Project Type:** Data Analytics & Business Intelligence  
 **Data Period:** 2015–2024  
 **Visualization Tool:** Tableau
+
+## Live Dashboard
+
+Explore the interactive Tableau dashboard:
+
+[View Global Renewable Energy Transition Dashboard on Tableau Public]([https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
