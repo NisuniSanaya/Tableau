@@ -53,4 +53,4 @@ The interactive dashboard presents multiple views of the global renewable energy
 
 Explore the interactive Tableau dashboard:
 
-[View Global Renewable Energy Transition Dashboard on Tableau Public]([https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)](https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Global Renewable Energy Transition Dashboard on Tableau Public](https://public.tableau.com/views/GlobalRenewableEnergyDashboard_17931222620930/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
