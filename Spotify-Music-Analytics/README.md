@@ -75,13 +75,7 @@ Provides filters that allow users to explore the dataset by genre and compare di
 - Comparative Analysis
 - Insight Communication
 
----
 
-## Dashboard Preview
-
-## Dashboard Preview
-
-![Spotify Music Analytics Dashboard](Spotify Dashboard.png)
 
 ---
 
