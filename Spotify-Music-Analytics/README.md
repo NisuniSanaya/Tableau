@@ -79,7 +79,9 @@ Provides filters that allow users to explore the dataset by genre and compare di
 
 ## Dashboard Preview
 
-![Spotify Analytics Dashboard](spotify-dashboard.png)
+## Dashboard Preview
+
+![Spotify Music Analytics Dashboard](spotify-dashboard.png)
 
 ---
 
